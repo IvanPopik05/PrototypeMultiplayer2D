@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: e04b7da7f70fe40438ae05b01af989f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7527469881684032205
+    second: green-splatter-10_0
+  - first:
+      213: -1050670354077039363
+    second: green-splatter-10_1
+  - first:
+      213: -710298260051889983
+    second: green-splatter-10_2
+  - first:
+      213: 5385277292755004116
+    second: green-splatter-10_3
+  - first:
+      213: -913871184480753885
+    second: green-splatter-10_4
+  - first:
+      213: 5114525321641970501
+    second: green-splatter-10_5
+  - first:
+      213: -5245105898948307554
+    second: green-splatter-10_6
+  - first:
+      213: 4234927296196154002
+    second: green-splatter-10_7
+  - first:
+      213: -16548329211927869
+    second: green-splatter-10_8
+  - first:
+      213: 3161278092280644309
+    second: green-splatter-10_9
+  - first:
+      213: 7169097218526470151
+    second: green-splatter-10_10
+  - first:
+      213: 9070429052340946288
+    second: green-splatter-10_11
+  - first:
+      213: -8067779114087927238
+    second: green-splatter-10_12
+  - first:
+      213: 6340784734485955770
+    second: green-splatter-10_13
+  - first:
+      213: 5092829246545718913
+    second: green-splatter-10_14
+  - first:
+      213: 1098091916432993631
+    second: green-splatter-10_15
+  - first:
+      213: 6158702216570239020
+    second: green-splatter-10_16
+  - first:
+      213: 2214324929127345208
+    second: green-splatter-10_17
+  - first:
+      213: 3056900336482957338
+    second: green-splatter-10_18
+  - first:
+      213: 6210100674561816199
+    second: green-splatter-10_19
+  - first:
+      213: -132788752292600778
+    second: green-splatter-10_20
+  - first:
+      213: 4286243445756780473
+    second: green-splatter-10_21
+  - first:
+      213: -3559096012520582269
+    second: green-splatter-10_22
+  - first:
+      213: 3720785050341518165
+    second: green-splatter-10_23
+  - first:
+      213: 5463109717982697313
+    second: green-splatter-10_24
+  - first:
+      213: 3046254588514427987
+    second: green-splatter-10_25
+  - first:
+      213: -636338520624310501
+    second: green-splatter-10_26
+  - first:
+      213: 5010472239758580197
+    second: green-splatter-10_27
+  - first:
+      213: -3037348354913690105
+    second: green-splatter-10_28
+  - first:
+      213: 1831081245639286608
+    second: green-splatter-10_29
+  - first:
+      213: 4808156779863040597
+    second: green-splatter-10_30
+  - first:
+      213: -6029100901408943543
+    second: green-splatter-10_31
+  - first:
+      213: -6833353442089638700
+    second: green-splatter-10_32
+  - first:
+      213: -3813631294273027224
+    second: green-splatter-10_33
+  - first:
+      213: 3442170323774759965
+    second: green-splatter-10_34
+  - first:
+      213: -7947779878174694280
+    second: green-splatter-10_35
+  - first:
+      213: 494228270308223497
+    second: green-splatter-10_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green-splatter-10_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 556
+        width: 3298
+        height: 1752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33585cc560e098790800000000000000
+      internalID: -7527469881684032205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
